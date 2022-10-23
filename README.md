@@ -1,5 +1,5 @@
 # Portfolio-Project-6
-PowerBI Dashboard using cleaned data from Portfolio Project 1
+PowerBI Dashboard using cleaned data from Portfolio Project 1.
 Our scope in this Project is to use the already cleaned (via SQL) Nashville-Housing dataset from Project 1 (almost 25.000 rows of data), in order to create an interactive dashboard in PowerBI.
 The following steps were applied:
   1. At first we used excel to break down the dataset into three separate sheets (within the same excel file), namely Housing, Location and Date.
@@ -10,7 +10,7 @@ The following steps were applied:
      (did prior check that all Ownerstate data were identical with the PropertyState).
   4. The relationships between the 3 tables were created in the Modelling tab. 
   5. Added DAX measures: Created Price-Tier, LandValue-Tier, Acreage-Tier and YearBuilt-Tier columns using IF.
-                         Created Total Houses Sold Measure using DISTINCCOUNT.
+                         Created Total Houses Sold Measure using DISTINCTCOUNT.
                          Created Total Sales Measure using SUMX.
                          Created Average Sale Price and Average Land Value using AVERAGE,
                          as well as some other measures using CALCULATE, ALL and some Time Intelligence formulas
