@@ -14,5 +14,6 @@ The following steps were applied:
                          Created Total Sales Measure using SUMX.
                          Created Average Sale Price and Average Land Value using AVERAGE,
                          as well as some other measures using CALCULATE, ALL and some Time Intelligence formulas
-  6. Finally the dashboard was created. The "edit interaction" button in the format sheet was used so that all charts, matrixes and maps to be filtered and not just highlighted when one of them is used as reference.  
+  6. Finally the dashboard was created. The "edit interaction" button in the format sheet was used so that all charts, matrixes and maps to be filtered and not just highlighted when one of them is used as reference.
+  7. UPDATE(May 15th 2023): Two KPI's regarding Yearly Revenue and Yearly number of Houses were added in the Dashboard. Moreover, the timespan was limited in 2013, 2014 and 2015, because we did not have data for all 12 months of 2016.
  
